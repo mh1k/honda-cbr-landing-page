@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+
+
+
+.cbr-poppins-f{
+    font-family: 'Poppins', sans-serif;
+}
+.cbr-header-bg{
+    background-color: #264653;
+}
+#cbr-button{
+    background-color: #E76F51;
+}
+.cbr-orange-2{
+    color: #E76F51;
+}
+.cbr-grayscale{
+    filter: grayscale(100%);
+}
+.cbr-star-space{
+    letter-spacing: .5rem;
+  }
+
+.cbr-review-p{
+    padding: 35px 40px;
+}
+.cbr-r-client{
+    width: 149px;
+    height: 149px;
+    object-fit: cover;
+    border: 1px solid #BDBDBD;
+}
+.cbr-mar-b{
+    margin-bottom: 130px;
+}
